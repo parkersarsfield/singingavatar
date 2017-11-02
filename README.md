@@ -1,2 +1,2 @@
 # singingavatar
-An singing avatar in virtual reality. 
+A singing avatar in virtual reality. 
